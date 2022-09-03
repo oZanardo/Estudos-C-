@@ -1,0 +1,15 @@
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\bin\Debug\net6.0\Curso_CSHARP_POO.exe
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\bin\Debug\net6.0\Curso_CSHARP_POO.deps.json
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\bin\Debug\net6.0\Curso_CSHARP_POO.runtimeconfig.json
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\bin\Debug\net6.0\Curso_CSHARP_POO.dll
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\bin\Debug\net6.0\Curso_CSHARP_POO.pdb
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\obj\Debug\net6.0\Curso_CSHARP_POO.csproj.AssemblyReference.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\obj\Debug\net6.0\Curso_CSHARP_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\obj\Debug\net6.0\Curso_CSHARP_POO.AssemblyInfoInputs.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\obj\Debug\net6.0\Curso_CSHARP_POO.AssemblyInfo.cs
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\obj\Debug\net6.0\Curso_CSHARP_POO.csproj.CoreCompileInputs.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\obj\Debug\net6.0\Curso_CSHARP_POO.dll
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\obj\Debug\net6.0\refint\Curso_CSHARP_POO.dll
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\obj\Debug\net6.0\Curso_CSHARP_POO.pdb
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\obj\Debug\net6.0\Curso_CSHARP_POO.genruntimeconfig.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Curso_CSHARP_POO\Curso_CSHARP_POO\obj\Debug\net6.0\ref\Curso_CSHARP_POO.dll

@@ -1,0 +1,15 @@
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\bin\Debug\net6.0\Treinos.exe
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\bin\Debug\net6.0\Treinos.deps.json
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\bin\Debug\net6.0\Treinos.runtimeconfig.json
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\bin\Debug\net6.0\Treinos.dll
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\bin\Debug\net6.0\Treinos.pdb
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\obj\Debug\net6.0\Treinos.csproj.AssemblyReference.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\obj\Debug\net6.0\Treinos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\obj\Debug\net6.0\Treinos.AssemblyInfoInputs.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\obj\Debug\net6.0\Treinos.AssemblyInfo.cs
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\obj\Debug\net6.0\Treinos.csproj.CoreCompileInputs.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\obj\Debug\net6.0\Treinos.dll
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\obj\Debug\net6.0\refint\Treinos.dll
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\obj\Debug\net6.0\Treinos.pdb
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\obj\Debug\net6.0\Treinos.genruntimeconfig.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Treinos\Treinos\obj\Debug\net6.0\ref\Treinos.dll

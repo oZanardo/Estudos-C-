@@ -1,0 +1,8 @@
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Exercicios\Exercicios\bin\Debug\Exercicios.exe.config
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Exercicios\Exercicios\bin\Debug\Exercicios.exe
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Exercicios\Exercicios\bin\Debug\Exercicios.pdb
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Exercicios\Exercicios\obj\Debug\Exercicios.csproj.AssemblyReference.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Exercicios\Exercicios\obj\Debug\Exercicios.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Exercicios\Exercicios\obj\Debug\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Exercicios\Exercicios\obj\Debug\Exercicios.exe
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Exercicios\Exercicios\obj\Debug\Exercicios.pdb
