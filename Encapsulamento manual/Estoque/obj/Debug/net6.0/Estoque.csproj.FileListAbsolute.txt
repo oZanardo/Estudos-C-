@@ -1,0 +1,30 @@
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\bin\Debug\net6.0\Estoque.exe
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\bin\Debug\net6.0\Estoque.deps.json
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\bin\Debug\net6.0\Estoque.runtimeconfig.json
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\bin\Debug\net6.0\Estoque.dll
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\bin\Debug\net6.0\Estoque.pdb
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\obj\Debug\net6.0\Estoque.csproj.AssemblyReference.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\obj\Debug\net6.0\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\obj\Debug\net6.0\Estoque.AssemblyInfoInputs.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\obj\Debug\net6.0\Estoque.AssemblyInfo.cs
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\obj\Debug\net6.0\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\obj\Debug\net6.0\Estoque.dll
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\obj\Debug\net6.0\refint\Estoque.dll
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\obj\Debug\net6.0\Estoque.pdb
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\obj\Debug\net6.0\Estoque.genruntimeconfig.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque\Estoque\obj\Debug\net6.0\ref\Estoque.dll
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\bin\Debug\net6.0\Estoque.exe
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\bin\Debug\net6.0\Estoque.deps.json
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\bin\Debug\net6.0\Estoque.runtimeconfig.json
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\bin\Debug\net6.0\Estoque.dll
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\bin\Debug\net6.0\Estoque.pdb
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\obj\Debug\net6.0\Estoque.csproj.AssemblyReference.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\obj\Debug\net6.0\Estoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\obj\Debug\net6.0\Estoque.AssemblyInfoInputs.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\obj\Debug\net6.0\Estoque.AssemblyInfo.cs
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\obj\Debug\net6.0\Estoque.csproj.CoreCompileInputs.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\obj\Debug\net6.0\Estoque.dll
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\obj\Debug\net6.0\refint\Estoque.dll
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\obj\Debug\net6.0\Estoque.pdb
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\obj\Debug\net6.0\Estoque.genruntimeconfig.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Estoque - Copia\Estoque\obj\Debug\net6.0\ref\Estoque.dll

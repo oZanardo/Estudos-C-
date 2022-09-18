@@ -1,0 +1,8 @@
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Projeto de banco\Projeto de banco\bin\Debug\Projeto de banco.exe.config
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Projeto de banco\Projeto de banco\bin\Debug\Projeto de banco.exe
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Projeto de banco\Projeto de banco\bin\Debug\Projeto de banco.pdb
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Projeto de banco\Projeto de banco\obj\Debug\Projeto de banco.csproj.AssemblyReference.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Projeto de banco\Projeto de banco\obj\Debug\Projeto de banco.csproj.SuggestedBindingRedirects.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Projeto de banco\Projeto de banco\obj\Debug\Projeto de banco.csproj.CoreCompileInputs.cache
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Projeto de banco\Projeto de banco\obj\Debug\Projeto de banco.exe
+C:\Users\João Victor Zanardo\Desktop\Programação\Curso C# POO\Projeto de banco\Projeto de banco\obj\Debug\Projeto de banco.pdb

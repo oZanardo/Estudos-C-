@@ -95,6 +95,7 @@ namespace Exercicios
                 */
             } while (a == 0);
 
+            //Conversor de moedas
             do {
 
                 Console.WriteLine("Qual é a cotação do dólar ?");
